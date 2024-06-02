@@ -4,7 +4,7 @@ Source Code for ACL 2024 main conference paper "Self-Modifying State Modeling fo
 
 ![](sm2framework.png)
 
-Our model is implemented based on the open-source toolkit [Fairseq](https://github.com/facebookresearch/fairseq) and the open-source code [ITST](https://github.com/ictnlp/ITST).
+Our model is implemented based on the open-source toolkit [Fairseq](https://github.com/facebookresearch/fairseq) and the open-source code [ITST](https://github.com/ictnlp/ITST)
 
 ## Requirements and Installation
 
